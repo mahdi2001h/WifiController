@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">خانه هوشمند</string>
+    <string name="title_home">خانه</string>
+    <string name="title_dashboard">تنظیمات</string>
+    <string name="title_notifications">پیام ها</string>
+</resources>
