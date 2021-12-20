@@ -1,6 +1,6 @@
 # WifiController
 
-Use android application to connect esp8266 nodemcu.the phurpose is design a personal android application for your IOT projects.
+Use android application to connect esp8266 nodemcu.the purpose is design a personal android application for your IOT projects.
 here is both android and arduino codes.
 
 
