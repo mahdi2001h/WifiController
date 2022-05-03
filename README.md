@@ -22,9 +22,9 @@ here is both android and arduino codes.
  * Open your Wifi setting (in phone ) and connect to "nodemcu" network
 
 ### Application screenshot
-  ![alt tag](https://github.com/mahdi2001h/WifiController/blob/master/img/application_screenshot.png)
+  ![alt tag](https://raw.githubusercontent.com/mahdi2001h/WifiController/main/img/application_screenshot.png)
   
 ### Schematic
-  ![alt tag](https://github.com/mahdi2001h/WifiController/blob/master/img/schematic_nodemcu.png)
+  ![alt tag](https://raw.githubusercontent.com/mahdi2001h/WifiController/main/img/schematic_nodemcu.png)
   
   
